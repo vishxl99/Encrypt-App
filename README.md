@@ -14,7 +14,7 @@ A simple yet powerful encryption system with GUI, built using Python and PyCrypt
 ## 🚀 How to Run
 
 ### Option 1: Run `.exe` directly
-Download the `.exe` from [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases), double-click, and use it!
+Download the `.exe` from [Releases](https://github.com/vishxl99/Encrypt-App), double-click, and use it!
 
 ⚠️ If Windows Defender flags it, [see this fix](#antivirus-warning).
 
