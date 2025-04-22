@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-# Encrypt-App
->>>>>>> 6274b05d5612c3942e2caf4e8f87c21a0604884b
+======= Encrypt-App =======
 # 🔐 SecureCrypt - AES Encryption App
 
 A simple yet powerful encryption system with GUI, built using Python and PyCryptodome.
